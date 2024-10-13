@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# expense-tracker-firebase-react" 
 "# expense-tracker-firebase-react" 
 "# expense-tracker-firebase-react" 
+"# basic--expense-tracker" 
